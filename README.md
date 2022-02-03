@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Magi-3/Magi-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Back-End Developer working in Fortaleza, Brazil.
 
-Here are some ideas to get you started:
+BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🏢 I'm currently studing focus on Data Science
+    ⚙️ I use daily: .js, .Py, and SQL
+    🌍 Currently looking for work
+    💅 I feel more comfortable working with logical problems
+    🌱 Learning all about Open Source
+    💬 Ping me about Program logic, Code Architecture, Data Science, Database Organization
+    📫 Reach me: https://www.linkedin.com/feed/
+    ⚡️ Fun fact: I'm a huge fan of Dark Souls and Pagode 
